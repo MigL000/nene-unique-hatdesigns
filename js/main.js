@@ -158,10 +158,19 @@
         document.body.classList.remove('no-scroll');
       });
     });
-    var dropdownTrigger = document.querySelector('.dropdown-trigger');
-    if (dropdownTrigger) {
-      dropdownTrigger.addEventListener('click', function () {
-        dropdownTrigger.parentElement.classList.toggle('is-expanded');
+    document.querySelectorAll('.dropdown-trigger').forEach(function (link) {
+      link.addEventListener('click', function () {
+        header.classList.remove('is-open');
+        document.body.classList.remove('no-scroll');
+      });
+    });
+    var dropdownCaret = document.querySelector('.dropdown-caret');
+    if (dropdownCaret) {
+      dropdownCaret.addEventListener('click', function (e) {
+        e.preventDefault();
+        e.stopPropagation();
+        var expanded = dropdownCaret.parentElement.classList.toggle('is-expanded');
+        dropdownCaret.setAttribute('aria-expanded', expanded ? 'true' : 'false');
       });
     }
   }

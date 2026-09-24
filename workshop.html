@@ -19,6 +19,7 @@
         <a href="index.html" data-i18n="nav.start">Hem</a>
         <div class="has-dropdown">
           <a href="collection.html" class="dropdown-trigger" data-i18n="nav.collection">Kollektion</a>
+          <button type="button" class="dropdown-caret" aria-label="Visa undermeny" aria-expanded="false"></button>
           <div class="dropdown">
             <a href="hair-accessories.html" data-i18n="nav.hairAccessories">Hårsmycken</a>
             <a href="felthats.html" data-i18n="nav.feltHats">Filthattar</a>
@@ -60,8 +61,10 @@
   <section class="section">
     <div class="container">
       <div class="split reverse">
-        <div class="split-media split-media--embed" data-reveal>
-          <blockquote class="instagram-media" data-instgrm-permalink="https://www.instagram.com/reel/DLwg-dWN1r5/" data-instgrm-version="14" style="background:#FFF; border:0; margin:0; max-width:540px; width:100%;"></blockquote>
+        <div class="split-media split-media--portrait" data-reveal>
+          <video autoplay muted playsinline controls>
+            <source src="videos/workshop.mp4" type="video/mp4" />
+          </video>
         </div>
         <div data-reveal>
           <p class="lede" data-i18n="workshop.bodyP1">Den mest populära workshopen är att skapa en fascinator i sinamaytyg.</p>
@@ -142,6 +145,5 @@
   <script src="js/products.js"></script>
   <script src="js/i18n.js"></script>
   <script src="js/main.js"></script>
-  <script async src="https://www.instagram.com/embed.js"></script>
 </body>
 </html>
