@@ -196,7 +196,7 @@ p { margin: 0 0 1em; }
   height: 72px;
 }
 
-body:not(.has-hero) .site-header {
+body:not(.has-hero) .site-header:not(.is-open) {
   background: var(--color-cream);
   box-shadow: var(--shadow-soft);
   height: 72px;
