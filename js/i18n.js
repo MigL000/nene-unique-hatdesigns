@@ -6,6 +6,7 @@ window.NENE_I18N = {
     common: { contactCta: "Kontakta mig", viewCollection: "Se kollektionen", readMore: "Läs mer", soldLabel: "Sålt" },
     meta: {
       title_home: "Nene Unique Hatdesigns – Handgjorda hattar av modist Marlene Feldtblad",
+      title_collection: "Kollektionen – Nene Unique Hatdesigns",
       title_hairAccessories: "Hårsmycken – Nene Unique Hatdesigns",
       title_feltHats: "Filthattar – Nene Unique Hatdesigns",
       title_broches: "Broscher – Nene Unique Hatdesigns",
@@ -41,7 +42,7 @@ window.NENE_I18N = {
       news2Text: "En del av mina alster finns även att se hos Bernol Home, Slättaröd 1030, Bjärnum.",
       ctaTitle: "Redo att skapa din alldeles egna hatt?",
       ctaLede: "Berätta om din idé så hjälper jag dig att förverkliga den – i det material och den färg du drömmer om.",
-      ctaPrimary: "Kontakta mig", ctaSecondary: "Se hårsmycken"
+      ctaPrimary: "Kontakta mig", ctaSecondary: "Bli inspirerad"
     },
     categories: {
       hairAccessories: { eyebrow: "Kollektion", title: "Hårsmycken", lede: "Handgjorda hårsmycken i sinamay, som även går att bära som brosch. Varje exemplar är unikt och går att beställa i andra färgkombinationer." },
@@ -79,7 +80,7 @@ window.NENE_I18N = {
     },
     footer: {
       about: "Handgjorda hattar och accessoarer från modist Marlene Feldtblad i Sverige. Nytt möter vintage – varje plagg är unikt.",
-      navTitle: "Utforska", contactTitle: "Kontakt", followTitle: "Följ mig", rights: "Alla rättigheter förbehållna.", credit: "Designad av Miguel"
+      navTitle: "Utforska", contactTitle: "Kontakt", followTitle: "Följ mig", rights: "Alla rättigheter förbehållna.", credit: "Designad av"
     },
     products: {
       ha_plain: "Hårsmycke i sinamay, går även att bära som brosch. Unikt exemplar.",
@@ -107,6 +108,7 @@ window.NENE_I18N = {
     common: { contactCta: "Contact me", viewCollection: "View collection", readMore: "Read more", soldLabel: "Sold" },
     meta: {
       title_home: "Nene Unique Hatdesigns – Handmade hats by milliner Marlene Feldtblad",
+      title_collection: "The Collection – Nene Unique Hatdesigns",
       title_hairAccessories: "Hair Accessories – Nene Unique Hatdesigns",
       title_feltHats: "Felt Hats – Nene Unique Hatdesigns",
       title_broches: "Broches – Nene Unique Hatdesigns",
@@ -141,7 +143,7 @@ window.NENE_I18N = {
       news2Text: "Some of my work is also on display at Bernol Home, Slättaröd 1030, Bjärnum, Sweden.",
       ctaTitle: "Ready to create your very own hat?",
       ctaLede: "Tell me about your idea and I'll help you make it real – in the material and colour you've been dreaming of.",
-      ctaPrimary: "Contact me", ctaSecondary: "View hair accessories"
+      ctaPrimary: "Contact me", ctaSecondary: "Get inspired"
     },
     categories: {
       hairAccessories: { eyebrow: "Collection", title: "Hair Accessories", lede: "Handmade sinamay hair accessories that can also be worn as a broche. Each piece is unique and can be ordered in other colour combinations." },
@@ -179,7 +181,7 @@ window.NENE_I18N = {
     },
     footer: {
       about: "Handmade hats and accessories by milliner Marlene Feldtblad in Sweden. New meets vintage – every piece is unique.",
-      navTitle: "Explore", contactTitle: "Contact", followTitle: "Follow me", rights: "All rights reserved.", credit: "Designed by Miguel"
+      navTitle: "Explore", contactTitle: "Contact", followTitle: "Follow me", rights: "All rights reserved.", credit: "Designed by"
     },
     products: {
       ha_plain: "Sinamay hair accessory, can also be worn as a broche. One of a kind.",
@@ -207,6 +209,7 @@ window.NENE_I18N = {
     common: { contactCta: "Kontakt mig", viewCollection: "Se kollektionen", readMore: "Læs mere", soldLabel: "Solgt" },
     meta: {
       title_home: "Nene Unique Hatdesigns – Håndlavede hatte af modist Marlene Feldtblad",
+      title_collection: "Kollektionen – Nene Unique Hatdesigns",
       title_hairAccessories: "Hårpynt – Nene Unique Hatdesigns",
       title_feltHats: "Filthatte – Nene Unique Hatdesigns",
       title_broches: "Broacher – Nene Unique Hatdesigns",
@@ -241,7 +244,7 @@ window.NENE_I18N = {
       news2Text: "En del af mit arbejde kan også ses hos Bernol Home, Slättaröd 1030, Bjärnum, Sverige.",
       ctaTitle: "Klar til at skabe din helt egen hat?",
       ctaLede: "Fortæl mig om din idé, så hjælper jeg dig med at gøre den virkelig – i det materiale og den farve, du drømmer om.",
-      ctaPrimary: "Kontakt mig", ctaSecondary: "Se hårpynt"
+      ctaPrimary: "Kontakt mig", ctaSecondary: "Bliv inspireret"
     },
     categories: {
       hairAccessories: { eyebrow: "Kollektion", title: "Hårpynt", lede: "Håndlavet hårpynt i sinamay, der også kan bæres som broche. Hvert stykke er unikt og kan bestilles i andre farvekombinationer." },
@@ -279,7 +282,7 @@ window.NENE_I18N = {
     },
     footer: {
       about: "Håndlavede hatte og accessories af modist Marlene Feldtblad i Sverige. Nyt møder vintage – hvert stykke er unikt.",
-      navTitle: "Udforsk", contactTitle: "Kontakt", followTitle: "Følg mig", rights: "Alle rettigheder forbeholdes.", credit: "Designet af Miguel"
+      navTitle: "Udforsk", contactTitle: "Kontakt", followTitle: "Følg mig", rights: "Alle rettigheder forbeholdes.", credit: "Designet af"
     },
     products: {
       ha_plain: "Hårpynt i sinamay, kan også bæres som broche. Unikt stykke.",
@@ -307,6 +310,7 @@ window.NENE_I18N = {
     common: { contactCta: "Kontakt meg", viewCollection: "Se kolleksjonen", readMore: "Les mer", soldLabel: "Solgt" },
     meta: {
       title_home: "Nene Unique Hatdesigns – Håndlagde hatter av modist Marlene Feldtblad",
+      title_collection: "Kolleksjonen – Nene Unique Hatdesigns",
       title_hairAccessories: "Hårpynt – Nene Unique Hatdesigns",
       title_feltHats: "Filthatter – Nene Unique Hatdesigns",
       title_broches: "Brosjer – Nene Unique Hatdesigns",
@@ -341,7 +345,7 @@ window.NENE_I18N = {
       news2Text: "Noe av arbeidet mitt finnes også hos Bernol Home, Slättaröd 1030, Bjärnum, Sverige.",
       ctaTitle: "Klar til å skape din helt egen hatt?",
       ctaLede: "Fortell meg om ideen din, så hjelper jeg deg med å virkeliggjøre den – i materialet og fargen du har drømt om.",
-      ctaPrimary: "Kontakt meg", ctaSecondary: "Se hårpynt"
+      ctaPrimary: "Kontakt meg", ctaSecondary: "Bli inspirert"
     },
     categories: {
       hairAccessories: { eyebrow: "Kolleksjon", title: "Hårpynt", lede: "Håndlaget hårpynt i sinamay, som også kan brukes som brosje. Hvert stykke er unikt og kan bestilles i andre fargekombinasjoner." },
@@ -379,7 +383,7 @@ window.NENE_I18N = {
     },
     footer: {
       about: "Håndlagde hatter og accessoirer av modist Marlene Feldtblad i Sverige. Nytt møter vintage – hvert plagg er unikt.",
-      navTitle: "Utforsk", contactTitle: "Kontakt", followTitle: "Følg meg", rights: "Alle rettigheter forbeholdt.", credit: "Designet av Miguel"
+      navTitle: "Utforsk", contactTitle: "Kontakt", followTitle: "Følg meg", rights: "Alle rettigheter forbeholdt.", credit: "Designet av"
     },
     products: {
       ha_plain: "Hårpynt i sinamay, kan også brukes som brosje. Unikt stykke.",
@@ -407,6 +411,7 @@ window.NENE_I18N = {
     common: { contactCta: "Contáctame", viewCollection: "Ver colección", readMore: "Leer más", soldLabel: "Vendido" },
     meta: {
       title_home: "Nene Unique Hatdesigns – Sombreros artesanales de la modista Marlene Feldtblad",
+      title_collection: "La Colección – Nene Unique Hatdesigns",
       title_hairAccessories: "Complementos de pelo – Nene Unique Hatdesigns",
       title_feltHats: "Sombreros de fieltro – Nene Unique Hatdesigns",
       title_broches: "Broches – Nene Unique Hatdesigns",
@@ -441,7 +446,7 @@ window.NENE_I18N = {
       news2Text: "Parte de mi trabajo también se exhibe en Bernol Home, Slättaröd 1030, Bjärnum, Suecia.",
       ctaTitle: "¿Lista para crear tu propio sombrero?",
       ctaLede: "Cuéntame tu idea y te ayudaré a hacerla realidad, con el material y el color con los que has soñado.",
-      ctaPrimary: "Contáctame", ctaSecondary: "Ver complementos de pelo"
+      ctaPrimary: "Contáctame", ctaSecondary: "Inspírate"
     },
     categories: {
       hairAccessories: { eyebrow: "Colección", title: "Complementos de pelo", lede: "Complementos de pelo en sinamay hechos a mano, que también se pueden llevar como broche. Cada pieza es única y puede encargarse en otras combinaciones de color." },
@@ -479,7 +484,7 @@ window.NENE_I18N = {
     },
     footer: {
       about: "Sombreros y complementos hechos a mano por la modista Marlene Feldtblad en Suecia. Lo nuevo se encuentra con lo vintage: cada pieza es única.",
-      navTitle: "Explorar", contactTitle: "Contacto", followTitle: "Sígueme", rights: "Todos los derechos reservados.", credit: "Diseñado por Miguel"
+      navTitle: "Explorar", contactTitle: "Contacto", followTitle: "Sígueme", rights: "Todos los derechos reservados.", credit: "Diseñado por"
     },
     products: {
       ha_plain: "Complemento de pelo en sinamay, también se puede llevar como broche. Pieza única.",
