@@ -30,6 +30,8 @@
   --max-width: 1240px;
   --header-height: 84px;
   --radius: 2px;
+  --radius-dropdown: 16px;
+  --radius-dropdown-item: 8px;
   --shadow-soft: 0 12px 32px rgba(44, 36, 32, 0.08);
   --shadow-lift: 0 18px 48px rgba(44, 36, 32, 0.16);
   --ease: cubic-bezier(0.22, 1, 0.36, 1);
@@ -338,7 +340,7 @@ body.has-hero .site-header:not(.is-solid):not(.is-open) {
   background: var(--color-white);
   color: var(--color-brown);
   box-shadow: var(--shadow-lift);
-  border-radius: var(--radius);
+  border-radius: var(--radius-dropdown);
   padding: 10px;
   min-width: 210px;
   opacity: 0;
@@ -358,7 +360,7 @@ body.has-hero .site-header:not(.is-solid):not(.is-open) {
   text-transform: none;
   letter-spacing: 0;
   color: var(--color-brown-soft);
-  border-radius: var(--radius);
+  border-radius: var(--radius-dropdown-item);
 }
 .main-nav .dropdown a:hover {
   background: var(--color-cream-alt);
@@ -415,7 +417,7 @@ body.has-hero .site-header:not(.is-solid):not(.is-open) {
   background: var(--color-white);
   color: var(--color-brown);
   box-shadow: var(--shadow-lift);
-  border-radius: var(--radius);
+  border-radius: var(--radius-dropdown);
   min-width: 168px;
   padding: 8px;
   opacity: 0;
@@ -437,7 +439,7 @@ body.has-hero .site-header:not(.is-solid):not(.is-open) {
   border: none;
   text-align: left;
   padding: 9px 10px;
-  border-radius: var(--radius);
+  border-radius: var(--radius-dropdown-item);
   font-family: var(--font-sans);
   font-size: 0.85rem;
   cursor: pointer;
